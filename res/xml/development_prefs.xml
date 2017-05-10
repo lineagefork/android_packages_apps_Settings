@@ -49,7 +49,7 @@
                 android:targetClass="com.android.settings.SetFullBackupPassword" />
     </PreferenceScreen>
 
-    <cyanogenmod.preference.CMSystemSettingSwitchPreference
+    <cyanogenmod.preference.SystemSettingSwitchPreference
         android:key="allow_signature_fake"
         android:title="@string/allow_signature_fake"
         android:summary="@string/allow_signature_fake_summary"

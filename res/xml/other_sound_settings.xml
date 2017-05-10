@@ -85,7 +85,7 @@
             android:title="@string/emergency_tone_title"
             android:summary="%s" />
 
-    <cyanogenmod.preference.CMSystemSettingSwitchPreference
+    <cyanogenmod.preference.SystemSettingSwitchPreference
         android:key="screenshot_sound"
         android:title="@string/screenshot_sound_title"
         android:summary="@string/screenshot_sound_summary"
