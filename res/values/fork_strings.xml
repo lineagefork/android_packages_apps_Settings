@@ -28,4 +28,8 @@
     <string name="themes_title">Themes</string>
     <string name="themes_summary">Overlay manager service</string>
 
+    <!-- Magisk -->
+    <string name="magisk_title">Magisk Manager</string>
+    <string name="magisk_summary">Root management</string>
+
 </resources>
